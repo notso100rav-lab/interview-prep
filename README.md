@@ -595,8 +595,6 @@ Step-by-step designs for: URL shortener, notification service, e-commerce checko
 
 **⭐ Found this helpful? Star the repo to bookmark it and help others discover it!**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-org/interview-prep?style=social)](https://github.com)
-
 *Happy interviewing! You've got this. 🚀*
 
 </div>
